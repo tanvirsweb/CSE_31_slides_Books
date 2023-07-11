@@ -1,0 +1,34 @@
+Microprocessor & assembelly language:
+-------------------------------------------------------------------
+1. assembly language programming and organization of the ibm pc		-Charles Marut
+2. Microprocessors and Interfacing					-Douglas V hall
+3. The Intel MNicroprocessors						-Barry B. Brey
+
+
+Software Engineering:
+-------------------------------------------------------------------
+1. Software Engineering							-Roger S. Pressman
+
+
+
+Database System
+-------------------------------------------------------------------
+1. Database System Concepts						-Abraham Silberschatz, S. Sudarshan
+
+
+
+Data Communication
+-------------------------------------------------------------------
+1. Principles of Electric Communication System 4th edition		-Louis E. Frenzel, McGraw Hill.
+2. Data Communications and networking 5th edition			-Behrouz A. Forouzan, McGraw Hill.
+
+
+
+Applied Statics & Qureing Theory
+-------------------------------------------------------------------
+1. Theory & Problem of Statistcs 3rd edition				-Murray R. Spigel, Schaum's outline.
+2. Data Mining Concept and techniques 3rd edition			-Jiawei Han, Jian Pei.
+
+
+
+
